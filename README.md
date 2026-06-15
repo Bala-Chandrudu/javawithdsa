@@ -8,3 +8,14 @@ todays homework
 \oops
 \multithreading
 \array
+
+dsa:
+array
+linkedlist
+stack
+queue
+trees
+graph
+sorting techniques
+searching techniques
+algorithm
